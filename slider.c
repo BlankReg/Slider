@@ -124,7 +124,7 @@ int main(int argc, char* argv[])
 {
 	int px = 4, py = 4;
 	char buffer[80] = {'\0'};
-	SDL_Event		event;
+	SDL_Event	event;
 
 	SDL_Init(SDL_INIT_VIDEO);
 
